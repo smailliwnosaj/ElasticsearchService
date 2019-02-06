@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticsearchService", "ElasticsearchService.csproj", "{93AEED31-7C69-4DB3-83E4-1FBDE8ABB942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{46183CAE-CA6C-4A25-888B-0727597508CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{39D3CF2C-A6C7-404B-8277-5E2870F08D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93AEED31-7C69-4DB3-83E4-1FBDE8ABB942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AEED31-7C69-4DB3-83E4-1FBDE8ABB942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AEED31-7C69-4DB3-83E4-1FBDE8ABB942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AEED31-7C69-4DB3-83E4-1FBDE8ABB942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46183CAE-CA6C-4A25-888B-0727597508CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46183CAE-CA6C-4A25-888B-0727597508CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46183CAE-CA6C-4A25-888B-0727597508CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46183CAE-CA6C-4A25-888B-0727597508CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{93AEED31-7C69-4DB3-83E4-1FBDE8ABB942} = {39D3CF2C-A6C7-404B-8277-5E2870F08D56}
+		{46183CAE-CA6C-4A25-888B-0727597508CA} = {39D3CF2C-A6C7-404B-8277-5E2870F08D56}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DED6DF9-99B9-472C-868E-31D7B59D8E03}
+	EndGlobalSection
+EndGlobal

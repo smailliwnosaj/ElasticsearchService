@@ -1,0 +1,11 @@
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\ElasticsearchService-master\obj\Debug\ElasticsearchService.dll
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\ElasticsearchService-master\obj\Debug\ElasticsearchService.pdb
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\ElasticsearchService-master\bin\ElasticsearchService.dll.config
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\ElasticsearchService-master\bin\ElasticsearchService.dll
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\ElasticsearchService-master\bin\ElasticsearchService.pdb
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\ElasticsearchService-master\obj\Debug\ElasticsearchService.csprojResolveAssemblyReference.cache
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\ElasticsearchService\bin\ElasticsearchService.dll.config
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\ElasticsearchService\bin\ElasticsearchService.dll
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\ElasticsearchService\bin\ElasticsearchService.pdb
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\ElasticsearchService\obj\Debug\ElasticsearchService.dll
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\ElasticsearchService\obj\Debug\ElasticsearchService.pdb

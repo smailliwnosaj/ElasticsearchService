@@ -1,0 +1,16 @@
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\Tests\bin\Debug\Tests.dll
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\Tests\bin\Debug\Tests.pdb
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\Tests\bin\Debug\ElasticsearchService.dll
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\Tests\bin\Debug\ElasticsearchService.pdb
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\Tests\obj\Debug\Tests.dll
+C:\Users\jason.williams\Downloads\ElasticsearchService-master\Tests\obj\Debug\Tests.pdb
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\Tests\bin\Debug\Tests.dll
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\Tests\bin\Debug\Tests.pdb
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\Tests\bin\Debug\ElasticsearchService.dll
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\Tests\bin\Debug\ElasticsearchService.pdb
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\Tests\obj\Debug\Tests.dll
+C:\Users\jason.williams\Downloads\Elasticsearch\Projects\Tests\obj\Debug\Tests.pdb
