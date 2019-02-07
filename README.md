@@ -29,6 +29,7 @@ When building my project, I used pretty much every advanced programming techniqu
 - Polymorphism
 - Inheritance
 - Asynchronous programming
+- Dependency Injection
 - Microservices
 - Unit Testing
 - etc.
