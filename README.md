@@ -24,14 +24,14 @@ Elasticsearch is an open source search engine which is available as a service ru
 
 When building my project, I used pretty much every advanced programming technique at my disposal.
 
-Interfaces
-Generic objects
-Polymorphism
-Inheritance
-Asynchronous programming
-Microservices
-Unit Testing
-etc.
+- Interfaces
+- Generic objects
+- Polymorphism
+- Inheritance
+- Asynchronous programming
+- Microservices
+- Unit Testing
+- etc.
 
 Although there are many thousands of Elasticsearch repos on Github, I didn't find any that would do what I wanted my service to do.  So, you may find it interesting.  And, if you haven't used Elasticsearch before, I would recommend learning it.
 
