@@ -2,7 +2,7 @@
 
 using System.Collections.Generic;
 
-namespace ElasticsearchService.Models
+namespace ES.Models
 {
     public class ES_Sort
     {
