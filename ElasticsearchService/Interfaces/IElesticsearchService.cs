@@ -1,9 +1,9 @@
 ﻿
-using ElasticsearchService.ViewModels;
+using ES.ViewModels;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ElasticsearchService.Interfaces
+namespace ES.Interfaces
 {
     public interface IElesticsearchService<T,Q>
     {
