@@ -1,6 +1,8 @@
 # ElasticsearchService
 Elasticsearch service C# Visual Studio project with two predefined entities: POST mappings, PUT doc async, GET doc(s) by id(s) async, GET docs by query async, and more.
 
+This version supports combinations of queries with 0 or many terms and 0 or many phrases with contains/not contains for each string.  Each term can have a fuzziness factor applied...covering misspelled words.  Each phrase can have a slop factor applied...covering phrases where the words are out of order.  Each query can be applied to one or many fields of an Elasticsearch entity.
+
 -----------------------------------------------------------------------------------------------------------------------
 
 STEP 1: Download and extract this archive
@@ -37,6 +39,7 @@ When building my project, I used pretty much every advanced programming techniqu
 Although there are many thousands of Elasticsearch repos on Github, I didn't find any that would do what I wanted my service to do.  So, you may find it interesting.  And, if you haven't used Elasticsearch before, I would recommend learning it.
 
 -------------------------------------------------------------------------------------------------------------------------
+
 
 
 
