@@ -1,7 +1,7 @@
-﻿using System;
+﻿
 using System.Collections.Generic;
 
-namespace ElasticsearchService.ViewModels
+namespace ES.ViewModels
 {
     public class ES_QueryByIds
     {

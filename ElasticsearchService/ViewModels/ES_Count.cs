@@ -1,6 +1,6 @@
 ﻿
 
-namespace ElasticsearchService.ViewModels
+namespace ES.ViewModels
 {
     public class ES_Count
     {
