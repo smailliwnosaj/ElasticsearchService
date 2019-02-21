@@ -22,6 +22,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -67,28 +68,28 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseClasses\ES_DataService.cs" />
-    <Compile Include="ES_CallService.cs" />
-    <Compile Include="ES_MessageService.cs" />
+    <Compile Include="Base Classes\ES_DataService.cs" />
+    <Compile Include="Entities\Call\ES_CallService.cs" />
+    <Compile Include="Entities\Call\ViewModels\ES_Call.cs" />
+    <Compile Include="Entities\Call\ViewModels\ES_CallResponse.cs" />
+    <Compile Include="Entities\Call\ViewModels\ES_CallsMapping.cs" />
+    <Compile Include="Entities\Call\ViewModels\ES_CallsQueryResponse.cs" />
+    <Compile Include="Entities\Call\ViewModels\ES_CallsResponse.cs" />
+    <Compile Include="Entities\Message\ES_MessageService.cs" />
+    <Compile Include="Entities\Message\ViewModels\ES_Message.cs" />
+    <Compile Include="Entities\Message\ViewModels\ES_MessageResponse.cs" />
+    <Compile Include="Entities\Message\ViewModels\ES_MessagesMapping.cs" />
+    <Compile Include="Entities\Message\ViewModels\ES_MessagesQueryResponse.cs" />
+    <Compile Include="Entities\Message\ViewModels\ES_MessagesResponse.cs" />
     <Compile Include="Interfaces\IElesticsearchService.cs" />
     <Compile Include="Models\ES_Config.cs" />
+    <Compile Include="Models\ES_Query.cs" />
     <Compile Include="Models\ES_Sort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\ES_Acknowledged.cs" />
-    <Compile Include="ViewModels\ES_Call.cs" />
-    <Compile Include="ViewModels\ES_CallResponse.cs" />
-    <Compile Include="ViewModels\ES_CallsMapping.cs" />
-    <Compile Include="ViewModels\ES_CallsQueryResponse.cs" />
-    <Compile Include="ViewModels\ES_CallsResponse.cs" />
     <Compile Include="ViewModels\ES_Count.cs" />
-    <Compile Include="ViewModels\ES_Message.cs" />
-    <Compile Include="ViewModels\ES_MessageResponse.cs" />
-    <Compile Include="ViewModels\ES_MessagesMapping.cs" />
-    <Compile Include="ViewModels\ES_MessagesQueryResponse.cs" />
-    <Compile Include="ViewModels\ES_MessagesResponse.cs" />
+    <Compile Include="ViewModels\ES_Query.cs" />
     <Compile Include="ViewModels\ES_QueryByIds.cs" />
-    <Compile Include="ViewModels\ES_QueryCalls.cs" />
-    <Compile Include="ViewModels\ES_QueryMessages.cs" />
     <Compile Include="ViewModels\ES_Result.cs" />
     <Compile Include="ViewModels\ES_StatusInfo.cs" />
   </ItemGroup>
