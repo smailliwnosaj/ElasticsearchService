@@ -1,11 +1,11 @@
 # ElasticsearchService
 Elasticsearch service C# Visual Studio project with no 3rd party dependencies (Other than Elasticsearch).  Built in unit tests allow you to run the code and experience using Elasticsearch with 0 code changes.  
 
--- POST Elasticsearch mappings
--- PUT Elasticsearch docs sync/async
--- GET Elasticsearch doc(s) by id(s) sync/async
--- GET Elasticsearch docs by query sync/async 
--- and much more.
+- POST Elasticsearch mappings
+- PUT Elasticsearch docs sync/async
+- GET Elasticsearch doc(s) by id(s) sync/async
+- GET Elasticsearch docs by query sync/async 
+- and much more.
 
 This version supports combinations of queries with 0 or many terms and 0 or many phrases with contains/not contains for each string.  Each term can have a fuzziness factor applied...covering misspelled words.  Each phrase can have a slop factor applied...covering phrases where the words are out of order.  Each query can be applied to one or many fields of an Elasticsearch entity.
 
